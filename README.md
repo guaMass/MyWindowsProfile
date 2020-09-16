@@ -18,4 +18,4 @@ This repository will be used for building up my windows terminal settings.
 ```
 效果如下
 
-![addwt]()
+![addwt](figures/addreg.gif)
