@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\wt]
+@="Windows Terminal here"
+;右键菜单内容
+"Icon"="%USERPROFILE%\\AppData\\Local\\Terminal\\terminal.ico"
+;右键菜单图标路径
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\wt\command]
+@=""%LOCALAPPDATA%\\Microsoft\\WindowsApps\\wt.exe"
+;windows terminal路径，按需填写
